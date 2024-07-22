@@ -5,7 +5,7 @@ The project is based on NodeJs, Express and MongoDB. You need to make sure that 
 ## Initial Setup
 
 Clone the repository
-`https://github.com/Grumpyyash/MediFast-Innovate_NSUT.git`
+`https://github.com/Kailash461/MediaFire/`
 
 ## Local Development Setup
 You will need to have npm CLI installed into your system
@@ -29,4 +29,4 @@ Your site must be visible at
 `http://localhost:3000`
 
 ## Any Issues Setting-up?
-Drop a mail at `yashvardhan513@gmail.com` and I will be more than happy to help you :)
+Drop a mail at `patelkailash077123@gmail.com` and I will be more than happy to help you :)
